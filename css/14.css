@@ -1,0 +1,5 @@
+p:not(.texto):not(.oferta){
+    color: red;
+}
+
+/*aplica a todos excepto el indicado*/
